@@ -1,6 +1,8 @@
 const App = () => {
   return (
-    <div className="bg-red-500 flex justify-center items-center">Hello!</div>
+    <div className="bg-purple-800 text-5xl flex justify-center h-screen items-center">
+      Hello!
+    </div>
   );
 };
 
